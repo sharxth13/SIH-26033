@@ -82,7 +82,7 @@ Quality check: photo-based grading at pickup, with a dispute window.
 Deliver and pay: the buyer confirms delivery and the farmer is paid instantly via UPI.
 Learn: sales and feedback data retrain the forecasting and routing models.
 
-![Agricultural_supply_chain_flowchart](AI-Powered Farm Supply Chain Flowchart.png)
+![Agricultural_supply_chain_flowchart](flowchart.png)
 
 ## Feasibility and Viability
 Feasibility
